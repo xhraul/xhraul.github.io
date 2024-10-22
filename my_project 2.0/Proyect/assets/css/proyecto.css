@@ -12490,3 +12490,14 @@ video{
   border-radius: 5%;
 }
 
+.boton_proyect{
+  width: 100px;
+  height: 100px;
+}
+
+.next{
+  color: black;
+  position: relative;
+  left: 490px;
+  font-size: 25px;
+}
